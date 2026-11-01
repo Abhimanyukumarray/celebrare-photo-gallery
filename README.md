@@ -1,9 +1,7 @@
-# Celebrare Photo Gallery
+<WritingBlock id="63183" variant="document"># Celebrare Photo Gallery
 
 A responsive photo gallery built using React, Vite and Tailwind CSS.
-
-## Features
-
+Features
 - Fetches 30 photos from the Picsum API.
 - Responsive photo grid layout.
 - Displays photo author names.
@@ -12,62 +10,33 @@ A responsive photo gallery built using React, Vite and Tailwind CSS.
 - Favorites saved in browser localStorage.
 - Custom React hook for fetching photos.
 - Loading spinner and error handling.
-
-## Tech Stack
-
+Tech Stack
 - React.js
 - Vite
 - JavaScript
 - Tailwind CSS
 - Picsum Photos API
-
-## React Concepts Used
-
+React Concepts Used
 - useState
 - useEffect
 - useReducer
 - useCallback
 - useMemo
 - Custom Hooks
-
-## Installation and Setup
-
+Installation and Setup
 1. Clone the repository:
-
-```bash
-git clone https://github.com/Abhimanyukumarray/celebrare-photo-gallery.git
-```
-
 2. Open the project folder:
-
-```bash
-cd celebrare-photo-gallery
-```
-
+   cd celebrare-photo-gallery
 3. Install dependencies:
-
-```bash
-npm install
-```
-
+   npm install
 4. Start the development server:
-
-```bash
-npm run dev
-```
-
+   npm run dev
 5. Open the local URL shown in your terminal.
-
-## Production Build
-
-```bash
+Production Build
 npm run build
-```
 
-## GitHub Repository
 
+GitHub Repository
 https://github.com/Abhimanyukumarray/celebrare-photo-gallery
 
----
-
-Developed by **Abhimanyu Kumar Ray**
+Developed by Abhimanyu Kumar Ray</WritingBlock>
