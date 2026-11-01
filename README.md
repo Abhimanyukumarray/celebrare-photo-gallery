@@ -34,27 +34,27 @@ A responsive photo gallery built using React, Vite and Tailwind CSS.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Abhimanyukumarray/celebrare-photo-gallery.git
-   ```
+```bash
+git clone https://github.com/Abhimanyukumarray/celebrare-photo-gallery.git
+```
 
 2. Open the project folder:
 
-   ```bash
-   cd celebrare-photo-gallery
-   ```
+```bash
+cd celebrare-photo-gallery
+```
 
 3. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 4. Start the development server:
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
 5. Open the local URL shown in your terminal.
 
